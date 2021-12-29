@@ -8,4 +8,28 @@ editor_options:
   chunk_output_type: console
 ---
 
-Welcome to my research website.
+***
+
+1. [N SKAP2 nt --> Halo-tag nt](Template_LFQ.html)
+
+2. [N SKAP2 act --> Halo-tag act](NSCAP2_act_vs_Halo_act.html)
+
+***
+
+3. [N SKAP2 nt --> N SKAP2 act](NSCAP2_vs_NSCAP2_act.html)
+
+***
+
+4. [C SKAP2 nt --> Halo-tag nt](CSCAP2_vs_Halo.html)
+
+5. [C SKAP2 act --> Halo-tag act](CSCAP2_act_vs_Halo_act.html)
+
+***
+
+6. [C SKAP2 nt --> C SKAP2 act](CSCAP2_vs_CSCAP2_act.html)
+
+***
+
+7. [N SKAP2 nt --> C SKAP2 nt](NSCAP2_vs_CSCAP2.html)
+
+8. [N SKAP2 act --> C SKAP2 act](NSCAP2_act_vs_CSCAP2_act.html)
